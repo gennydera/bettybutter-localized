@@ -298,14 +298,14 @@ x/* general styling*/
         color: #7A7A7A;
     }
     
-    .img1 {
+       .img1 {
         width: 100%;
-        height: 565px;
+        height: 100%;
     }
     
     .img2 {
         width: 100%;
-        height: 565px;
+        height: 100%;
     }
     
     .col-md-3 .screen-img {
@@ -313,27 +313,27 @@ x/* general styling*/
     }
     .img3 {
         width: 100%;
-        height: 350px;
+        height: 100%;
     }
     
     .img4 {
         width: 100%;
-        height: 188px;
+        height: 100%;
     }
     
     .img5 {
         width: 100% !important;
-        height: 565px;
+        height: 100%;
     }
     
     .img6 {
         width: 100%;
-        height: 565px;
+        height: 100%;
     }
     
     .img7 {
         width: 100%;
-        height: 565px;
+        height: 100%;
     }
     
     .button a{
@@ -356,23 +356,23 @@ x/* general styling*/
     /* Services styling*/
     
     .img8{
-        width: 779px;
-        height: 499px;
+        width: 100%;
+        height: 100%;
     }
     
     .img9{
-        width: 519px;
-        height: 499px;
+        width: 100%;
+        height: 100%;
     }
     
     .img10{
-        width: 519px;
-        height: 499px;
+        width: 100%;
+        height: 100%;
     }
     
     .img11{
-        width: 779px;
-        height: 499px;
+        width: 100%;
+        height: 100%;
     }
     .cap {
         position: relative;
